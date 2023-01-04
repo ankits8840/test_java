@@ -38,7 +38,7 @@ int num;
 Scanner sc= new Scanner(System.in);  
 System.out.print("Enter the limit: ");  
 //reads the limit from the user  
-num=sc.nextInt();  
+num=12;  
 System.out.println("Armstrong Number up to "+ num + " are: ");  
 for(int i=0; i<=num; i++)  
 //function calling  
